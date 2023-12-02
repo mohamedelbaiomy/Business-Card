@@ -48,7 +48,7 @@ class BusinessCard extends StatelessWidget {
             style: TextStyle(
               letterSpacing: 1,
               color: Colors.white70,
-              fontSize: 27,
+              fontSize: 26,
             ),
           ),
           const SizedBox(height: 15),
